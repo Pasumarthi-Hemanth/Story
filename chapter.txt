@@ -1,1 +1,1 @@
-I it used for git initilizing
+It used for git initializing
