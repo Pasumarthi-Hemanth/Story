@@ -1,1 +1,0 @@
-It used for git initializing
